@@ -52,6 +52,7 @@ Run the script with: <br>
 <br>
 python selenium_automation.py
 
+---
 📌 Note: <br>
 <br>
 This tool is only for GRIET students. <br>
